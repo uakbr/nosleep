@@ -1,4 +1,4 @@
-# whoneeds.coffe
+# ☕ whoneeds.coffe
 
 This tiny site uses the [Screen Wake Lock API](https://developer.mozilla.org/en-US/docs/Web/API/Screen_Wake_Lock_API) to prevent your device from sleeping.
 
