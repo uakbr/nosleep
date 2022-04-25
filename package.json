@@ -1,7 +1,7 @@
 {
-  "name": "nosleep.page",
+  "name": "nosleep",
   "version": "0.1.0",
-  "repository": "git@github.com:bradleyjkemp/nosleep.page.git",
+  "repository": "git@github.com:uakbr/nosleep.git",
   "license": "MIT",
   "scripts": {
     "build": "parcel build src/*.html"
